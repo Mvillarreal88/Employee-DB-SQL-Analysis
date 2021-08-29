@@ -3,6 +3,7 @@
 ### Data Modeling:
 
 •	Initially I will use the information that is provided to create a table schema for the 6 CSV files.
+
 •	I will then import each CSV file to the corresponding SQL table.
 
 In the Employee Database we will obtain the following information based on the Data that is provided:
