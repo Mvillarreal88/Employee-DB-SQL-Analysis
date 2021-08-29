@@ -1,19 +1,16 @@
 --Creating the tables 
-drop table Departments 
 
 CREATE TABLE Departments (
 	dept_no varchar(255),
     dept_name varchar(255)
 );
 
-drop table Dept_employee 
 
 CREATE TABLE Dept_employee (
     dept_no varchar(255),
     emp_no int
 );
 
-drop table Dept_manager 
 
 
 CREATE TABLE Dept_manager (
@@ -21,7 +18,6 @@ CREATE TABLE Dept_manager (
     emp_no int
 );
 
-drop table employees 
 
 CREATE TABLE employees (
 	emp_no int NOT NULL,
